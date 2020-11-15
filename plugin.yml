@@ -1,0 +1,10 @@
+name: Random message
+main: Random message/Main
+author: THOBY KSA
+api: 3.14.0
+version: 1.0
+
+commands: 
+  SCM: 
+    description: "give Random message"
+    usage: "/Rm"
